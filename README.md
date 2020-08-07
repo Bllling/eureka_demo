@@ -3,5 +3,5 @@ springclound_springparent
 springclound_eureka_server  eureka服务器
 springclound_eureka_server1  eureka服务器
 客户端：
-springcloud_eureka_client    
+springcloud_eureka_client   
 springcloud_eureka_client1
